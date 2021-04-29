@@ -24,3 +24,7 @@
 - 💻 Python | C |JavaScript | PyPy3 | Html | CSS
 - 🔧 PyCharm | Visual Studio code | Sublime | Git | Notion
 
+<br>
+<a href="https://github.com/mohit11R">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohit11R&show_icons=true&theme=light&line_height=27" alt="Mohit's github stats"/>
+</a>
