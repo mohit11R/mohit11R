@@ -24,9 +24,3 @@
 - 💻 Python | C |JavaScript | PyPy3 | Html | CSS
 - 🔧 PyCharm | Visual Studio code | Sublime | Git | Notion
 
-<br>
-
-<a href="https://github.com/mohit11R">
- <img align="center" src="https://github.com/mohit11R" alt="Mohit's github stats"/>
-</a>
-
