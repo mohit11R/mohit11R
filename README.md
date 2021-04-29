@@ -1,16 +1,14 @@
-### Hi there 👋
+Hey there! I'm Yuvraj. ✌️
+👨🏻‍💻 About Me
+🔭 I’m currently learning React and Flask
+🎓 Currently pursuing Computer Science Engineering (Sophomore)
+👨‍💻 Python developer and Web developer.
+🔭 Exploring Competetive Programming
+🌱 Enthusiast in Data Science
+⚡ Life shrinks and expands on the proportion of your willingness to take risks and try new things
+🛠 Tech Stack
+💻 Python | C | JavaScript | PyPy3
+🔧 PyCharm | Visual Studio code | Sublime  | Git | Notion
 
-<!--
-**mohit11R/mohit11R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mohit's github stats
