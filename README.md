@@ -1,4 +1,4 @@
-Hey there! I'm Yuvraj. ✌️
+Hey there! I'm Mohit. ✌️
 👨🏻‍💻 About Me
 🔭 I’m currently learning React and Flask
 🎓 Currently pursuing Computer Science Engineering (Sophomore)
