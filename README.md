@@ -24,3 +24,9 @@
 - 💻 Python | C |JavaScript | PyPy3 | Html | CSS | BootStrap
 - 🔧 PyCharm | Visual Studio code | Sublime | Git | Notion
 
+
+### **Activity Graph**
+
+![ github activity graph](https://activity-graph.herokuapp.com/graph?username=mohit11R&theme=github&area=true)
+
+![Profile views](https://gpvc.arturio.dev/mohit11R) 
