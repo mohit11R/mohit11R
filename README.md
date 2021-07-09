@@ -1,13 +1,7 @@
 <h2> Hey there! I'm Mohit. ✌️</h2>
 
 <a href="https://www.linkedin.com/in/mohit-11r/">
-  <img align="left" alt="Mohit's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/Mohit.r11/">
-  <img align="left" alt="Mohit's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://twitter.com/Mohit__11">
-  <img align="left" alt="Mohit's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Mohit's LinkdeIN" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-256.png" />
 </a>
 <br>
 <h3> 👨🏻‍💻 About Me </h3>
