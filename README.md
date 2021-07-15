@@ -6,7 +6,7 @@
 <br>
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 I’m currently learning numpy and pandas
+- 🔭 I’m currently learning Statistics and Pandas.
 - 🎓 Currently pursuing Computer Science Engineering (Sophomore) 
 - 👨‍💻 Python developer and Web developer.
 - 🔭 Exploring Competetive Programming
@@ -15,8 +15,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 Python | C |JavaScript | PyPy3 | Html | CSS | BootStrap
-- 🔧 PyCharm | Visual Studio code | Sublime | Git | Notion
+- 💻 Python | C |JavaScript | PyPy3 | Html | CSS | BootStrap | Numpy 
+- 🔧 PyCharm | Visual Studio code | Sublime | Git | Notion 
 
 ### 📈 **Github Stats**
 <div float= "left">
