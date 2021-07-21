@@ -6,7 +6,7 @@
 <br>
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 I’m currently learning Statistics and Pandas.
+- 🔭 I’m currently learning Statistics and Exploratory data analysis (EDA).
 - 🎓 Currently pursuing Computer Science Engineering (Sophomore) 
 - 👨‍💻 Python developer and Web developer.
 - 🔭 Exploring Competetive Programming
