@@ -15,7 +15,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 Python | C |JavaScript | PyPy3 | Html | CSS | BootStrap | Numpy | Pandas | MatplotLib
+- 💻 Python | C |JavaScript | PyPy3 | Html | CSS | BootStrap | Numpy | Pandas | MatplotLib | Seaborn | Automation
 - 🔧 PyCharm | Visual Studio code | Sublime | Git | Notion 
 
 ### 📈 **Github Stats**
