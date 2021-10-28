@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/-Hackerearth-purple?style=flat-square&logo=Hackerearth&logoColor=white"/>
   </a>
   <a href="https://www.codechef.com/users/mohit_0011">
-    <img src="https://img.shields.io/badge/-Codechef-Brown?style=flat-square&logo=Codechef&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Codechef-brown?style=flat-square&logo=Codechef&logoColor=white"/>
   </a>
 
 <br>
