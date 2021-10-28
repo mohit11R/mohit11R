@@ -1,8 +1,22 @@
 <h2> Hey there! I'm Mohit. ✌️</h2>
 
-<a href="https://www.linkedin.com/in/mohit-11r/">
-  <img align="left" alt="Mohit's LinkdeIN" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-256.png" />
-</a>
+ 
+   <a href="http://twitter.com/Mohit__11">
+    <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" />
+  </a>
+   <a href="https://www.linkedin.com/in/mohit-11r/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/mohit_11/">
+    <img src="https://img.shields.io/badge/-Leetcode-yellow?style=flat-square&logo=Leetcode&logoColor=white"/>
+  </a>
+    <a href="https://www.hackerrank.com/Mohit_11">
+    <img src="https://img.shields.io/badge/-HackerRank-green?style=flat-square&logo=Hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerearth.com/@mohit2611">
+    <img src="https://img.shields.io/badge/-Hackerearth-purple?style=flat-square&logo=Hackerearth&logoColor=white"/>
+  </a>
+
 <br>
 <h3> 👨🏻‍💻 About Me </h3>
 
