@@ -45,8 +45,8 @@
   <a href="https://github.com/remcohalman/github-readme-stats">
 <img width="45%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohit11R&layout=compact&theme=radical&custom_title=streak-stats-ty&hide_border=false&layout=compact" />
 </div>
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohit11R&layout=compact)](https://github.com/mohit11R
+ <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohit11R&layout=compact)](https://github.com/mohit11R)
 
 ### **Activity Graph**
 
