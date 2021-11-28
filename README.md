@@ -23,7 +23,7 @@
 <br>
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 I’m currently learning databases - SQL and Exploratory data analysis (EDA).
+- 🔭 I’m currently learning Exploratory data analysis (EDA) and Machine Learning.
 - 🎓 Currently pursuing Computer Science Engineering (Sophomore) 
 - 👨‍💻 Python developer and Web developer.
 - 🔭 Exploring Competetive Programming
