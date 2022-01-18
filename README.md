@@ -10,9 +10,9 @@
 <!--   <a href="https://leetcode.com/mohit_11/">
     <img src="https://img.shields.io/badge/-Leetcode-yellow?style=flat-square&logo=Leetcode&logoColor=white"/>
   </a> -->
-    <a href="https://www.hackerrank.com/Mohit_11">
+<!--     <a href="https://www.hackerrank.com/Mohit_11">
     <img src="https://img.shields.io/badge/-HackerRank-green?style=flat-square&logo=Hackerrank&logoColor=white"/>
-  </a>
+  </a> -->
 <!--   <a href="https://www.hackerearth.com/@mohit2611">
     <img src="https://img.shields.io/badge/-Hackerearth-purple?style=flat-square&logo=Hackerearth&logoColor=white"/>
   </a> -->
@@ -42,8 +42,8 @@
 <!-- <a href="https://github.com/remcohalman/github-readme-stats">
 <img width="45%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohit11R&layout=compact&theme=radical&custom_title=streak-stats-ty&hide_border=false&layout=compact" />
   </a> -->)
-  <a href="https://github.com/mohit11R/github-readme-stats">
-<img width="45%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohit11R&layout=compact&theme=radical&custom_title=streak-stats-ty&hide_border=false&layout=compact" />
+<!--   <a href="https://github.com/mohit11R/github-readme-stats">
+<img width="45%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohit11R&layout=compact&theme=radical&custom_title=streak-stats-ty&hide_border=false&layout=compact" /> -->
 </div>
  <br/>
  
