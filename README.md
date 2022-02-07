@@ -15,7 +15,7 @@
 <h2> Hustle, Smile and Achieve🎯</h2>
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 I’m currently learning <b>Deep Learning</b>
+- 🔭 I’m currently learning <b> Machine Learning and Deep Learning</b>
 - 🕵️‍♂️ Better Insight from <b>Messy data</b> to Amazing <b>Dashboard</b>
 - 🎓 Currently pursuing Computer Science Engineering (Sophomore) 
 - 👨‍💻 Python developer and Web developer.
