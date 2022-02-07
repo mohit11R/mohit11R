@@ -12,14 +12,15 @@
   </a>
 
 <br>
+<h2> Hustle, Smile and Achieve🎯</h2>
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 I’m currently learning Exploratory data analysis (EDA) and Machine Learning.
+- 🔭 I’m currently learning <b>Deep Learning</b>
+- 🕵️‍♂️ Better Insight from <b>Messy data</b> to Amazing <b>Dashboard</b>
 - 🎓 Currently pursuing Computer Science Engineering (Sophomore) 
 - 👨‍💻 Python developer and Web developer.
-- 🔭 Exploring Competetive Programming
+- 🔭 Exploring Competitive Programming
 - 🌱 Enthusiast in Data Science
-- ⚡ Life shrinks and expands on the proportion of your willingness to take risks and try new things 
 
 <h3>🛠 Tech Stack</h3>
 <div>
