@@ -19,7 +19,6 @@
 - 🕵️‍♂️ Better Insight from <b>Messy data</b> to Amazing <b>Dashboard</b>
 - 🎓 Currently pursuing Computer Science Engineering (Sophomore) 
 - 👨‍💻 Python developer and Web developer.
-- 🔭 Exploring Competitive Programming
 - 🌱 Enthusiast in Data Science
 
 <h3>🛠 Tech Stack</h3>
