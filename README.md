@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently learning <b> Machine Learning and Deep Learning</b>
 - 🕵️‍♂️ Better Insight from <b>Messy data</b> to Amazing <b>Dashboard</b>
-- 🎓 Currently pursuing Computer Science Engineering (Sophomore) 
+- 🎓 Currently pursuing Computer Science Engineering
 - 👨‍💻 Python developer and Web developer.
 - 🌱 Enthusiast in Data Science
 
