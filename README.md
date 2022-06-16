@@ -4,7 +4,7 @@
 <!--    <a href="https://www.linkedin.com/in/mohit-11r/">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
   </a> -->
-    <a href="https://www.hackerrank.com/Mohit_11">
+   <a href="https://www.hackerrank.com/Mohit_11">
     <img src="https://img.shields.io/badge/-HackerRank-green?style=flat-square&logo=Hackerrank&logoColor=white"/>
   </a>
   <a href="https://www.codechef.com/users/mohit_0011">
