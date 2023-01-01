@@ -7,9 +7,9 @@
    <a href="https://www.hackerrank.com/Mohit_11">
     <img src="https://img.shields.io/badge/-HackerRank-green?style=flat-square&logo=Hackerrank&logoColor=white"/>
   </a>
-  <a href="https://www.codechef.com/users/mohit_0011">
+<!--   <a href="https://www.codechef.com/users/mohit_0011">
     <img src="https://img.shields.io/badge/-Codechef-brown?style=flat-square&logo=Codechef&logoColor=white"/>
-  </a>
+  </a> -->
 
 <br>
 <h2> Hustle, Smile and Achieve🎯</h2>
