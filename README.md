@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently learning <b> Machine Learning and APIs</b>
 - 🕵️‍♂️ Better Insight from <b>Messy data</b> to Amazing <b>Dashboard</b>
-- 🎓 Currently pursuing Computer Science Engineering
+- 🎓 Currently pursuing Computer Science Engineering( Final Year)
 - 👨‍💻 Python developer and Web developer.
 - 🌱 Enthusiast in Data Science
 
