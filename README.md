@@ -17,7 +17,6 @@
 
 - 🔭 I’m currently learning <b> DevOps</b>
 - 🕵️‍♂️ Better Insight from <b>Messy data</b> to Amazing <b>Dashboard</b>
-- 🎓 Currently pursuing Computer Science Engineering( Final Year)
 - 👨‍💻 Python developer and Web developer.
 - 🌱 Enthusiast in Data Science
 
