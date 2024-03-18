@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Mohit. ✌️</h2>
+<h2> Hey there! I'm Mohit Rikhi. ✌️</h2>
 
 
 <!--    <a href="https://www.linkedin.com/in/mohit-11r/">
@@ -15,10 +15,10 @@
 <h2> Hustle, Smile and Achieve🎯</h2>
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 I’m currently learning <b> DevOps</b>
+- 🔭 I’m currently learning <b>Backend and DevOps</b>
 - 🕵️‍♂️ Better Insight from <b>Messy data</b> to Amazing <b>Dashboard</b>
 - 👨‍💻 Python developer and Web developer.
-- 🌱 Enthusiast in Data Science
+- 🌱 Enthusiast in Data Science and Cloud
 
 <h3>🛠 Tech Stack</h3>
 <div>
