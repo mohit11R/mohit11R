@@ -51,6 +51,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohit11R&show_icons=true&theme=light&line_height=27" alt="Mohit's github stats"/>
 </a>
 -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit11R&label=Profile%20views&color=0e75b6&style=flat" alt="mohit11R" /> </p>
 
 
 <table width="100%">
