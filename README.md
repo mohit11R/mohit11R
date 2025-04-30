@@ -57,10 +57,25 @@
 <table width="100%">
   <tr>
     <td>
-<img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=mohit11R&show_icons=true&hide_border=true&theme=onedark"/> </td>
- <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit11R&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=onedark"/> </td></tr><br>
-   <tr> <td> <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohit11R&theme=dracula"></td>
-     <td><img height="180rem" src="https://github-readme-streak-stats.herokuapp.com/?user=mohit11R&theme=dracula" alt="mohit11R" /></td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohit11R&show_icons=true&hide_border=true&theme=onedark" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit11R&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=onedark" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohit11R&theme=dracula" alt="Profile Summary" />
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-streak-stats.vercel.app/?user=mohit11R&theme=dracula&hide_border=true&cache_bust=1" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+
+
+
      
   </tr>
   </tr>
