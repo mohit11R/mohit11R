@@ -68,12 +68,10 @@
       <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohit11R&theme=dracula" alt="Profile Summary" />
     </td>
     <td>
-      <img height="180em" src="https://github-readme-streak-stats.vercel.app/?user=mohit11R&theme=dracula&hide_border=true&cache_bust=1" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit11R&theme=tokyonight" />
     </td>
   </tr>
 </table>
-
-
 
 
      
