@@ -15,10 +15,10 @@
 <h2> Hustle, Smile and Achieve🎯</h2>
 <h3> 👨🏻‍💻 About Me </h3>
 
-1. 🔭 Currently diving deep into Generative AI and Data Engineering
+1. 🔭 Currently diving deep into Generative AI and Cyber Security
 2. 🕵️‍♂️ Turning messy data into insightful dashboards
 3. 👨‍💻 Passionate Python and Web Developer
-4. 🌱 Enthusiast in Data Science and Backend Development
+4. 🌱 Enthusiast in Cyber Security and Backend Development
 
 <h3>🛠 Tech Stack</h3>
 <div>
